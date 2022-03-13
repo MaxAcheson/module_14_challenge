@@ -42,10 +42,12 @@ This first figure shows that, over an initial 3 month training period, the predi
 
 This second figure displays a comparison of strategy vs. actual returns over a 2 month moving window. The prediction is quite close to the actual returns in the end, however the strategy returns exhibit a more volatile trajectory. 
 
-![Image 3]()
+![Image 3](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_8.png)
 
-![Image 4]()
+![Image 4](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_4.png)
 
-![Image 5]()
+![Image 5](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_3.png)
 
-![Image 6]()
+![Image 6](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_9.png)
+
+![Image 7](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_2.png)
