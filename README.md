@@ -38,3 +38,14 @@ In order to view the project, navigate to the `machine_learning_trading_bot.ipyn
 
 This first figure shows that, over an initial 3 month training period, the predicted trading strategy performed slightly better than the actual returns. 
 
+![Image 2](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_6.png)
+
+This second figure displays a comparison of strategy vs. actual returns over a 2 month moving window. The prediction is quite close to the actual returns in the end, however the strategy returns exhibit a more volatile trajectory. 
+
+![Image 3]()
+
+![Image 4]()
+
+![Image 5]()
+
+![Image 6]()
