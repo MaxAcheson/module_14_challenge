@@ -48,15 +48,19 @@ This third figure displays the data along a 6 month training window. The data su
 
 Conclusion: The 3 month training window appears to offer the least volatile returns.
 
+The following 3 figures display strategy vs. actual trading returns using 3 unique sets of short and long SMA values. 
+
 ![Image 4](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_4.png)
-
-
 
 ![Image 5](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_3.png)
 
 ![Image 6](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_9.png)
 
+The data from the 3 figures above suggests that a short window of 7 days with a 150 day long window presents the most consistent, least volatile returns. As a result, I recommend using a short/long window of 7/150.
+
 ![Image 7](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_2.png)
+
+This final figure shows that the LRM strategy has a strong dip in returns during 2020. My recommendation is to stick with the SVM strategy in order to expect the most conistent returns for the future. 
 
 ## Contributors
 
