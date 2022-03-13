@@ -1,4 +1,4 @@
-#Trading Algorithm Bot
+# Trading Algorithm Bot
 
 This project creates a machine learning bot that aims to test different trading strategies and compare them by reviewing graphical and numeric data.
 
