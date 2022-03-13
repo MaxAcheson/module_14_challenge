@@ -6,13 +6,9 @@ This project creates a machine learning bot that aims to test different trading 
 
 This project utilizes python 3.7 along with the following packages:
 
-[TensorFlow](https://www.tensorflow.org/)
-
 [Pandas](https://pandas.pydata.org/) 
 
 [scikit-learn](https://pypi.org/project/scikit-learn/)
-
-[Matplotlib](https://matplotlib.org/)
 
 [jupyterlab](https://jupyter.org/)
 
@@ -26,11 +22,9 @@ This project has been constructed in a [Jupyter Lab](https://jupyter.org/) noteb
 
 2. Confirm that the packages are installed by using the following code lines:
 
-`pip install tensorflow`
-
 `pip install pandas`
 
-`pip install matplotlib`
+`pip install scikit-learn`
 
 `pip install jupyterlab`
 
