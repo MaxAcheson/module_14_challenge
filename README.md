@@ -60,7 +60,7 @@ The data from the 3 figures above suggests that a short window of 7 days with a 
 
 ![Image 7](https://github.com/MaxAcheson/module_14_challenge/blob/main/Images/image_2.png)
 
-This final figure shows that the LRM strategy has a strong dip in returns during 2020. My recommendation is to stick with the SVM strategy in order to expect the most conistent returns for the future. 
+This final figure shows that the LRM strategy has a volatile trajectory throughout 2018 and 2019, into a strong dip in returns during 2020. My recommendation is to stick with the SVM strategy in order to expect the most conistent returns for the future. 
 
 ## Contributors
 
